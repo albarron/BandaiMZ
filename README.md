@@ -6,4 +6,4 @@ This project includes scanned versions of only three of the pages of the user ma
 The files can be opened with inkscape.
 
 ## Disclaimer
-The translations were carried out with Google Translate, and after a lot of interpretation. 
+The translations were carried out with Google Translate, and after a lot of interpretation. The scanned versions were downloaded from http://www.dalong.net/review/etc/mc06/mc06_i.htm
